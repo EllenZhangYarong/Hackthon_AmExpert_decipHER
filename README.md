@@ -9,4 +9,4 @@
 - [Hackthon Link](https://datahack.analyticsvidhya.com/contest/amexpert-decipher-women-machine-learning-hackathon/?utm_source=auto-email)
 - Score: first 113.8779715266, mine: 115.1894979603
 - Rank 26 in public Board
-![Rank in public Board](./images/publibRank20.PNG)
+![Rank in public Board](./images/publicRank20.png)
